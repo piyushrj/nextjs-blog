@@ -15,7 +15,7 @@ function Hero() {
             </div>
             <h1>Hi, I'm Piyush!</h1>
             <p>
-                I blog about data science - especially about Python libraries like numpy and pandas.
+                I blog about data science (specially Python libraries like numpy and pandas) and web development.
             </p>
         </section>
     )
